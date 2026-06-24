@@ -43,7 +43,7 @@ With an entrepreneurial mindset and a track record of driving cross-functional d
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,java" />
 </p>
 
 ### 🌐 Frontend
@@ -53,12 +53,12 @@ With an entrepreneurial mindset and a track record of driving cross-functional d
 
 ### 🗄️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,sqlite,mysql" />
 </p>
 
 ### ☁️ Cloud, DevOps & Tooling
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,linux" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ With an entrepreneurial mindset and a track record of driving cross-functional d
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Computer Vision** | Advanced | Real-time object tracking, feature extraction, and image processing utilizing OpenCV. |
+| **Computer Vision** | Intermediate | Real-time object tracking, feature extraction, and image processing utilizing OpenCV. |
 | **Deep Learning** | Intermediate | Model training, tuning, and deployment for specialized classification and regression tasks. |
 | **Data Engineering**| Intermediate | Building scalable analytics pipelines, processing multi-modal datasets, and vector databases. |
 
@@ -154,14 +154,14 @@ Monitors dynamic kinematic points during physical motion routines, translating p
 
 | Recognition | Details |
 | :--- | :--- |
-| **1st Place Winner** — Campus Mobile 2025 | Awarded national top honors in the Education category with NEXO APP. |
+| **1st Place Winner** — Campus Mobile 14th | Awarded national top honors in the Education category with NEXO APP. |
 | **Winner** — Agrohub Hackathon 2024 | Achieved first place for innovative technical solutions targeting the agricultural sector. |
 | **Web Summit Selection** | Selected to present enterprise-ready project pitches at premium international scale. |
 
 </div>
 
 ---
-
+<!--
 ## 8. Certifications
 
 ### 🌐 Cisco Academy
@@ -182,8 +182,8 @@ Monitors dynamic kinematic points during physical motion routines, translating p
 </div>
 
 ---
-
-## 10. GitHub Analytics
+-->
+## 8. GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -205,23 +205,23 @@ Monitors dynamic kinematic points during physical motion routines, translating p
 </div>
 
 ---
-
+<!--
 ## 11. GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Xia0o0&theme=onedark&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 ---
-
-## 12. Contribution Activity
+-->
+## 9. Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xia0o0&bg_color=0D0B18&color=9461FD&line=8A2BE2&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
-
-## 13. Contribution Snake
+<!--
+## 9. Contribution Snake
 
 <div align="center">
   <picture>
@@ -232,8 +232,8 @@ Monitors dynamic kinematic points during physical motion routines, translating p
 </div>
 
 ---
-
-## 14. Current Focus
+-->
+## 10. Current Focus
 
 ```yaml
 learning:
