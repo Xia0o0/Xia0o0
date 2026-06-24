@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/welcome-visitor-counter/?username=Xia0o0&label=PROFILE+VIEWS&color=7B1FA2&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Xia0o0&label=PROFILE+VIEWS&color=7B1FA2&style=flat-square)
 [![Followers](https://img.shields.io/github/followers/Xia0o0?label=FOLLOWERS&style=flat-square&color=4A148C)](https://github.com/Xia0o0?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Xia0o0?label=STARS&style=flat-square&color=311B92)](https://github.com/Xia0o0?tab=stars)
 
